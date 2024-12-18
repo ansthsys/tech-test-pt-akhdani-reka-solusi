@@ -1,0 +1,30 @@
+{
+  "name": "tech-test-pt-akhdani-reka-solusi",
+  "version": "1.0.0",
+  "description": "Technical Test at PT Akhdani Reka Solusi",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "npx cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ansthsys/tech-test-pt-akhdani-reka-solusi.git"
+  },
+  "keywords": [
+    "QA",
+    "Cypress",
+    "e2e",
+    "Unit",
+    "Testing"
+  ],
+  "author": "ansthsys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ansthsys/tech-test-pt-akhdani-reka-solusi/issues"
+  },
+  "homepage": "https://github.com/ansthsys/tech-test-pt-akhdani-reka-solusi#readme",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
