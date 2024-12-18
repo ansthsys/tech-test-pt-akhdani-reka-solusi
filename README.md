@@ -2,7 +2,7 @@
 Test as QA
 
 1. Scenario Test: [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1hP6e37--hTl6QY_q5jL6rhv0FTxJrA2mSSVhLUdJBso/edit?usp=sharing)
-2. Automation Test:
+2. Automation Test (e2e):
 
    ```bash
    git clone https://github.com/ansthsys/tech-test-pt-akhdani-reka-solusi
